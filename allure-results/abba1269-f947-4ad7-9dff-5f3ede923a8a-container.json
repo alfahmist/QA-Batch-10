@@ -1,0 +1,1 @@
+{"uuid":"abba1269-f947-4ad7-9dff-5f3ede923a8a","name":"qautomation.july2022.TugasKolakBaseAPITest.login","description":"","start":1658802450683,"stop":1658802453512,"children":["fe5a6c98-1016-460d-a9a3-360667218bf1"],"befores":[{"name":"login","status":"passed","stage":"finished","description":"","start":1658802450684,"stop":1658802453511}]}
